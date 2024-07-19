@@ -2,7 +2,7 @@
   "name": "mui.test01.founders",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://zaeem-ahmad-techificent.github.io/zaeem-ahmad-techificent",
+
 
   "dependencies": {
     "@emotion/react": "^11.11.4",
